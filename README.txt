@@ -1,0 +1,1 @@
+Click and drag to shoot in the opposite direction.
